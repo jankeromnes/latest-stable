@@ -1,0 +1,23 @@
+{
+  "name": "latest-stable",
+  "version": "0.0.0",
+  "description": "Determine the latest stable version of various tools and packages by scraping the web.",
+  "homepage": "https://github.com/jankeromnes/latest-stable",
+  "bugs": {
+    "url": "https://github.com/jankeromnes/latest-stable/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jan Keromnes",
+    "url": "http://jan.tools"
+  },
+  "bin": "bin/latest-stable",
+  "main": "latest-stable.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jankeromnes/latest-stable"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
